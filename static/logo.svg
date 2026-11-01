@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Scalable web app">
+  <rect width="64" height="64" rx="12" fill="#232f3e"/>
+  <rect x="12" y="38" width="10" height="14" rx="2" fill="#ff9900"/>
+  <rect x="27" y="28" width="10" height="24" rx="2" fill="#ff9900"/>
+  <rect x="42" y="16" width="10" height="36" rx="2" fill="#ff9900"/>
+</svg>
